@@ -1,0 +1,45 @@
+.container{
+	width:1200;
+}
+.qus{
+	text-align:center;
+	background-color: #00fff3;
+	height:170px;
+	padding:20px;
+	color:white;
+}
+.qus button{
+	border-radius:20px;
+	background-color: #00fff3;
+	color:white;
+	padding:8px;
+	border:solid 1px #fff;
+}
+.about-us{
+	text-align:center;
+}
+.hrline{
+	position:Absolute;
+	display:block;
+	width:50px;
+	height:2px;
+	background-color: #00fff3;
+	margin-left:640px;
+	margin-bottom:20px;
+}
+.about-us h2{
+	margin-bottom:10px;
+
+}
+.all-about{
+	display:flex;
+}
+.all-about .text-cont{
+	width:50%;
+	margin-right:170px;
+}
+.img-cont{
+	margin-left:160px;
+	margin-top:20px;
+}
+
