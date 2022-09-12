@@ -43,3 +43,37 @@
 	margin-top:20px;
 }
 
+.all-four{
+	display:flex;
+}
+.all-four .four{
+	margin-left:110px;
+	margin-top:50px;
+	background-color: #cdcde4;
+	width:200px;
+}
+.all-four .four h1{
+	margin-left:73px;
+}
+.all-four .four p{
+	margin-left:45px;
+}
+.company-img{
+	padding-left:120px;
+	padding-right:20px;
+	background-color: #e7e7fd;
+	margin-top:50px;
+}
+.company-img img{
+	height:55px;
+	width:9.16%;
+	justify-content:space-evenly;
+	margin-top:20px;
+	padding:30px;
+}
+.four i{
+	margin-left:80px;
+	font-size:30px;
+	color: #069ccd;
+}
+
